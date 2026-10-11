@@ -1,0 +1,272 @@
+[
+ {
+  "name": "hero-interior",
+  "src": "/img/hero-interior.webp",
+  "width": 1080,
+  "height": 1616,
+  "orientation": "portrait",
+  "blur": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAACwBgCdASoYACQAPwF6sFSrJ6QjJWmZYCAJZQDHMFzZpmdw1d/i35wJFvhgL+W3PLyWzCIFMblzUMQtdV1oAAD+7n6hGm97ZSpnDJrPdcSmZAsO0sHn3aqew/XKgSHEu0jYRScd89n3Cr+NhvxBBxVRTJRk5+2j2/mnVqkn40XvGfdme9csnV53+VH5lMsIbRy87+2HqYQSMHlx40ru64W3W9jLMf4IlIcbVjbm/hBEPC/YVLWnCS6TwO96j8wAdssLNjc5jovGvJa1Yashds0w2HkGIZ5DlblJJXeFmU71MdrzEzD0yrACVmAAAA==",
+  "alt": "Wide living space flooded with natural light",
+  "credit": "living-room-bathed-in-natural-light-through-a-window"
+ },
+ {
+  "name": "hero-window",
+  "src": "/img/hero-window.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwAwCdASoYABAAPwFqrE8rJiQiMAgBYCAJZQDImYxYnxw16smITADOD82pt1Wl8rejubWa/yvaq3NeG+Q2Oyt0XNLzzXAlFc0pgkFFX3gtcreuZMslPMHz9XPrTU3FLTQsWXZu57QY8a85yDSsnnuq9mJcjwEjHTJ1dU+Owp20nMhMEbdZIINrRQfwNV9OiSJ+pPsZAAA=",
+  "alt": "Living room framed by large windows",
+  "credit": "photo-of-a-living-room-with-large-windows"
+ },
+ {
+  "name": "hero-detail",
+  "src": "/img/hero-detail.webp",
+  "width": 1800,
+  "height": 2697,
+  "orientation": "portrait",
+  "blur": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAACQBQCdASoYACQAPwFur0+rJqQiMBVaqWAgCUAVS4DxGRL9ob0mYOu8baEeuzGQm2DJJ9/EAAD+7qCwlCgXJ4F3V5voGeEpy6UjPDcrYz6znWxP1gqQbbIwsjBsKUbPulx+WPzh2P4nIlFgKb166OtCRm+9kMVUEeJl4s1C04TQ089nkagHHR61PX3g14kbpe2vX8/a92T+FmQj9s9J25dDy8Wk4njLEp/jenczgTFQGqvf2QmqNAAmN3Z8lDBejigSguxQmozsBaD8JmSUQMnTldl1TpzDKAA=",
+  "alt": "Editorial detail: a design book on a table",
+  "credit": "hand-holds-the-bottom-corner-of-a-large-coffee-table-book"
+ },
+ {
+  "name": "coll-living",
+  "src": "/img/coll-living.webp",
+  "width": 1800,
+  "height": 1252,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBQCdASoYABEAPv1srE6rJiQiMBgMAWAfiWcAyJgPR23+3T07JwrZtycQkgWhVU4AAPvdyd3pjrBq6dpNT3SGTmV3f+G7sMIf+dFqzYH074yJ3xpKjgiQp0SNP+r2PbCXG6nA28ipFAUDrYIIWCL7Z5BGxZqyX7MoWcAA",
+  "alt": "Tidy living room with a grey sectional",
+  "credit": "view-of-a-tidy-living-room-with-a-grey-sectional"
+ },
+ {
+  "name": "coll-bedroom",
+  "src": "/img/coll-bedroom.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoYABAAPwFqrU8rJiQiMAgBYCAJYgCdMoACsGtJpCkrXl+gAAD931Dx7yueTSu54ySUO1NEuXYk2vop/aCXjMuHsNVVxz41wnhikVzp/f8TcL9f3Rx+7DA/zrYHC7ekmNo1bNWD+33xk2qE6CvzZvRgmZpqQAVg9GoAAA==",
+  "alt": "Loft-style bedroom",
+  "credit": "loft-style-bedroom"
+ },
+ {
+  "name": "coll-dining",
+  "src": "/img/coll-dining.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADQAwCdASoYABAAPwForE6rJaQiMAgBYCAJaAC7MoABYym+/nTulwAA/dhWXxVKVQmQaD8GeGb0ebbVBBOmDb0wIYnyzZBv+wMnGS3VA6ceqe/C6BliRKTOvUwliVInq6yEJ7eJX0eTx2NltrJWRvdYtpQ6qaHbcfv0OT4tfneAIVIf+xWaAhX+Ag5rMgAA",
+  "alt": "Open-plan kitchen with timber fixtures",
+  "credit": "open-plan-kitchen-with-wooden-fixtures"
+ },
+ {
+  "name": "coll-study",
+  "src": "/img/coll-study.webp",
+  "width": 1800,
+  "height": 1036,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYAA4APwFqrE8rJiQiMAgBYCAJQBadA+iE1Qf+NBeNT6AwFiAAAOIo5aeJXuQkKJ+tKGOWRQMAjxNFrULRBQ+uHKC6vSrCuxy9JY5YrYl6KLndW84yLZYwqyalHlbZ73gIrMUaMv6qIm16bVk0ug013xGFQedd4J41jh2IkYByKdbK0Mg3S2fEWqeieXwULeAAAA==",
+  "alt": "A minimal yet cosy workspace",
+  "credit": "a-minimal-yet-cosy-workspace"
+ },
+ {
+  "name": "coll-decor",
+  "src": "/img/coll-decor.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAwCdASoYABAAPwFqrE8rJiQiMAgBYCAJZQDGfCGZNsQEzZOE8AD+5x5wHsQOu4tICJYGiSkJhvWLGi9nDDnDFKDOGowZO07VRdA19UXRXzN17nZ3k+/zBoFhKHbKJi3dyXWEFmturU+DaXFH6mAA",
+  "alt": "Table styling, plants and objects",
+  "credit": "plants-and-table-decorations"
+ },
+ {
+  "name": "coll-seating",
+  "src": "/img/coll-seating.webp",
+  "width": 1800,
+  "height": 2696,
+  "orientation": "portrait",
+  "blur": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAACQBgCdASoYACQAPwF6slSrJ6QjJWmZYCAJQBgFC1+cmjnh/Y85vvY4Cj3KiSKh6JUrya1MgLMUnXJw3hyAAPJzxAmJve5J9QOi5M50TzEvYsn/e/3cceca+UW7y/TJc3FoyZAmAPU5hn9zbwARUe+lroGg5Cu36UPmwVFH3M8JDcqgAw7HMZADfCcIraZwQOPzouegyh7Mx8+oePmDhMTs+ZI07kA8ZtrHkN89BPGAcOqjeVcsYNoGIv5mDRsw+SagZiO4TcljDS2tXb67IUh4wGLlNPmdfnGhVi9/OJOsX9h4AAA=",
+  "alt": "Sofa on a natural wood frame",
+  "credit": "natural-white-sofa-on-wood-frame"
+ },
+ {
+  "name": "piece-lounge",
+  "src": "/img/piece-lounge.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoYABAAPwFssE+rJiSiMAgBYCAJZwAAW+tMDOliqA12dYAA/u+y4+n5A+Cug7azV0XsTSDsPBGn677U0lYrjnI9+vjPye80P2engk8DUbRf4t64FQfUvu45palaEDeqQ4AAAA==",
+  "alt": "Soft upholstered sofa",
+  "credit": "soft-livingroom-sofa"
+ },
+ {
+  "name": "piece-bookcase",
+  "src": "/img/piece-bookcase.webp",
+  "width": 1800,
+  "height": 2700,
+  "orientation": "portrait",
+  "blur": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAAAQBgCdASoYACQAPwF6tVWrJySjJWgBYCAJYgDH5FDGcqAGSQlS68fKS5XGvXapFGecxfpT/abJ4QAA/t6vH4N5i7WEW27QHYy/kZh78sF0MQO/JUnXBnbgttl+fjIkcAuFm7O47r0VdHKqhZW//BcHwoPRJRLvHoEb6JZ2fhOJZ5zfj+u46KPfU2BreRk2tAh1saFo2BZ2SVfvIvL0S9zviOfWWHZgWqKDKVw5tzr96rlZ0BYBJTUoiSJADkkSaK2qzEsRTs9fCi2uEa8S7FvpJUAAAA==",
+  "alt": "Seating against a low bookcase",
+  "credit": "grey-couch-with-a-bookcase-behind-it"
+ },
+ {
+  "name": "piece-table",
+  "src": "/img/piece-table.webp",
+  "width": 1800,
+  "height": 2314,
+  "orientation": "portrait",
+  "blur": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAAAQBgCdASoYAB8APwFsrU8rJiQiMAgBYCAJZQDI9NjcAjqtrIcXcnjLbODGP4PaGNOZTw4yDx097GAA/u8+14KMjKAyaCdvYWgDvxgSTxl2GpZInirrIHarG/A/lnMURUW+ImHkHpRCCZ05QjIUfXjl5P+wzjmYU4gK1Gi9ISsevf/15vpIEss8MqOSKfct4A8aR31XFnuJNX2QpUdsktsOtDa8+whqLuYbC8nlssgfkEzN5GAaQYSQamv/QXwQN/g9vTT1Sy2gP/S5IC7wXG9rfG+zCQZAj4uPS5mtAAA=",
+  "alt": "Coffee table with books and candles",
+  "credit": "stack-of-books-and-candles-on-a-lounge-coffee-table"
+ },
+ {
+  "name": "piece-bed",
+  "src": "/img/piece-bed.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABwBACdASoYABAAPwFqrU8rJiQiMAgBYCAJaACxJUDZABSMi03RTRzmf/KogAD+5xlqUV+0ajbasIvt1t9vVP37fcqFgLfrIH88uivrcstbHqAoqHwmdknvxpyZztcv7o7N+e3t4+3CCYfoymFlxDc1jF+fZ+UYrsLxwAAA",
+  "alt": "Bedside table and lamp",
+  "credit": "bedroom-side-table-light"
+ },
+ {
+  "name": "mat-wood",
+  "src": "/img/mat-wood.webp",
+  "width": 1800,
+  "height": 1201,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoYABEAPwF0r1KrJqQnqAqpYCAJQBibAec4KspiB6aP68cgAPzPIJCFCVJp6l/fqZsnmhpBXa7X9TKFPOOfwuOFaxYeO279QjooYpw3wI257PcIRKDd2X0QYpiUZb1Z0Sq+Wms3YNvbgQqgAAA=",
+  "alt": "Timber slat wall detail",
+  "credit": "house-plant-on-wooden-slat-wall"
+ },
+ {
+  "name": "mat-linen",
+  "src": "/img/mat-linen.webp",
+  "width": 1800,
+  "height": 1193,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoYABAAPwFqrE6rJiQiMAgBYCAJZwAATL/a4cnsL21D3VkrAADONDdEMKyzeCTQRjLMo6m9gQdt8HAmCPIsSWrP+BgnvfBVsXy6IB5WDk7/SGf5Lsz1/kxtTeBtgvXHDIk0j2CzVoapJlzoopWfzIqPNTTdUcZ4yAzYrmmKSOw5+XgA",
+  "alt": "Natural linen bedding",
+  "credit": "white-pillows-and-sheets-of-a-bed-unmade"
+ },
+ {
+  "name": "mat-stone",
+  "src": "/img/mat-stone.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYABAAPwForE6rJaQiMAgBYCAJZAC/OBcVC03oZuzlw8A+gAD+ajsR1X/N5BojqjwavzqItcHbaxIgTKWvC5FvB6TJMbD4XXxyQYKE6DguMVGYxYfW869FjdXpPc4IweDBhODgEyv+s3rfg4U+m2PCxJb3iAAA",
+  "alt": "Chalk-white stone surface",
+  "credit": "modern-white-bathroom"
+ },
+ {
+  "name": "mat-verdure",
+  "src": "/img/mat-verdure.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAwCdASoYABAAPwFqrE8rJiQiMAgBYCAJZV9qADsw+wygAAD+7tcWpz+uGGq/g2q+e4rvV/FCQfKsiAIYdJvZqgHBjrSSc0lCNawDdtMQNo0sIJ22NiMLQAA=",
+  "alt": "Green foliage texture",
+  "credit": "moody-green-vine-wall-texture"
+ },
+ {
+  "name": "gal-1",
+  "src": "/img/gal-1.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwAwCdASoYABAAPwFqrE8rJiQiMAgBYCAJQBWAAyN9BueHG19sa3PQAPYJvIUZ+XJMzL2BDT5uLqTXc7DyG56ryr9k3Rj2K8G9hUxGIpM6iQ0LJIrf6CkvetSOFoyEIBPTdjk7AfnNzhLctexUnFln1uDcmJRmm5hZQIfp1t7fNOOSBFNuw+n8bE9JZQwoWXSKTGq6qAvuM1ofH+C4dOY7IAAAAA==",
+  "alt": "Minimalist room with modern art",
+  "credit": "minimalist-room-with-modern-art"
+ },
+ {
+  "name": "gal-2",
+  "src": "/img/gal-2.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQBACdASoYABAAPwFqrE8rJaQiMAgBYCAJbACdL1ABUs7E4bC+J9fk5w4AAP6UNEZh9rmvCLBdkmynsBZByI8/cHx72k8/ptNbqyayRM9tLq1sHD4sji1uVYbitIfQCMtIe+Nkv1vSPOaL79A4yz8v7YYxVkK4NSq8sqsAwVFNWQlIbMjC1+/tVYAAAA==",
+  "alt": "Sunlight across a bright living room",
+  "credit": "sunlight-creeps-through-a-bright-living-room"
+ },
+ {
+  "name": "gal-3",
+  "src": "/img/gal-3.webp",
+  "width": 1800,
+  "height": 2254,
+  "orientation": "portrait",
+  "blur": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASoYAB8APwFwsFIrJiSiqAqpYCAJZAC/ODVEaB9GjbSBzH4TwAzNV86ZZkGBXEMAAP7wzjAVB5mdRpUbgeghtGy8XCbV/bBJAuhyilRTdCn2BKPg1y+96WuGGXl5uQ0c+6XF1j8KAciXcaK1DCWMjaCvxzsgTIJVRE/XjJqoUBF0kkHFTMlUvl1tvRAfU8IRjkBnjJ0Va8tzqkIlqX9bkapu9jWeL6Rp9T9/9fnUb8YsntZoL5oV5v+DcOG5qaAA",
+  "alt": "Interior with deep teal walls",
+  "credit": "elaborate-building-interior-with-light-teal-walls"
+ },
+ {
+  "name": "gal-4",
+  "src": "/img/gal-4.webp",
+  "width": 1800,
+  "height": 1202,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwBACdASoYABEAPwF2slOrJySiqAgBYCAJZQDLLAyD1WWk3GAzdSDzdRUiFsRgAPjGS/rXDUBv/Dp3YVfVn/Xddb9RtJR8CizNBgnZzVYHwmrT+B9SXFibR+62iyP46d/RcWOjU7P60kxB0rVMXKGC8ut3ph98xnUzKfz1RVuX28ACGMLjtSdRYHSYsZtwMosY7k4oCYwAAA==",
+  "alt": "Condominium living room",
+  "credit": "condominium-interior-livingroom"
+ },
+ {
+  "name": "gal-5",
+  "src": "/img/gal-5.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQAwCdASoYABAAPwFqrU8rJiQiMAgBYCAJYwCdAAsRTa3iMNj91tAA/sN0+j5UoMxI7poJPfQP2JKhI3cjk/2QBuaxn3gpQ7U6ELmdGONIp9ZhmIhuIL734Kz06xf4yQm19ww0sdePH1KVS6XB72/gfwZx0XOd4HP6TSENc3dTyr0xU1Bv9BwA",
+  "alt": "Bedroom with layered textiles",
+  "credit": "loftstyle-bedroom-with-throw-pillows"
+ },
+ {
+  "name": "gal-6",
+  "src": "/img/gal-6.webp",
+  "width": 1800,
+  "height": 1115,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAwCdASoYAA8APwFqrU8rJaQiMAgBYCAJaQATwAFstiynNTCVSS6AAP7vSwElqZ7CiqwlUZlJv+v9LPWWbMBKRnucrkxcfVICTuJNNp+yeWuhDcQnmQqJojPS9b9XytF5+ddgIKPIfhAKFM5g4TKCrYMQAA==",
+  "alt": "Long architectural hallway",
+  "credit": "two-people-walk-down-a-long-hallway"
+ },
+ {
+  "name": "gal-7",
+  "src": "/img/gal-7.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAwCdASoYABAAPwFqrU8rJiQiMAgBYCAJZwDG9CP/Ch5DhGpkl5ewAP7c4bVgnNlN4l2/8IZjt+11oa2tcGVoI/iesZTDTbVc9oBJO3v7KBrOeWVLfcXDG7FHK67AZgl69yKCOiY0KXHe+si7VtOfhrUhML2hsF1KdgeVVIKnCPQAv0cHKLPAAAA=",
+  "alt": "Living room against an exposed wall",
+  "credit": "living-room-brick-wall"
+ },
+ {
+  "name": "gal-8",
+  "src": "/img/gal-8.webp",
+  "width": 1800,
+  "height": 1200,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADwAwCdASoYABAAPwForE6rJaQiMAgBYCAJQBTig858+KToHzoyplC4AP3s2ZXKpqaN5nekU7NFTI3D7HUNJLRs1RSdRbCv8Svh0HtocalnmfmH5jZwBooy/q90KOxLiKTRl2/LgAj/ygeE0OTPBhYU1QK3Et3tRPagt1COGl9RiwSz4a4w6vk+bZEFXlkoAAA=",
+  "alt": "A quiet interior workspace",
+  "credit": "small-business-interior"
+ },
+ {
+  "name": "story-craft",
+  "src": "/img/story-craft.webp",
+  "width": 1800,
+  "height": 1013,
+  "orientation": "landscape",
+  "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwAwCdASoYAA4APwFqrE8rJiQiMAgBYCAJYwCdAB9mvfV2Zdg/NA0AAPuGOjvIiLZDIibvGLl9ufDU4+xR/XYgYP64NIXGVtU/EaYPoo8fws58VgRSZ7z25fcEQDrrV+gC9g6n1SfS8p2VSryYCn5pY1UrraBqR80Io3eVXDlfABmo4AA=",
+  "alt": "At the workbench / studio",
+  "credit": "painter-working-in-studio"
+ },
+ {
+  "name": "mat-lamp",
+  "src": "/img/mat-lamp.webp",
+  "width": 1800,
+  "height": 2401,
+  "orientation": "portrait",
+  "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBQCdASoYACEAPu1eo06ppSsiNVv8AWAdiWUAvVghnJ147o54btl7GPw0wkSHXvZcJ82bkAAA/up6j04wGehuMUsB8uNxW0zHep7Kqmlp0ei/7R1hkE25rQ2E3VZfR3mTwcRG1zI8OZ1A9tzDAKP7yvz5CP8flc2cZybEXygf2QSdfND3WbEGvY6cGiL3EhsHCwFsyjVt3J2rnM7D1wZbbE47q32OoAA=",
+  "alt": "Sculptural lamp over timber",
+  "credit": "metal-lamp-over-wooden-door"
+ }
+]
